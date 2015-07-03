@@ -1,0 +1,10 @@
+{
+    "autotweetsFile" : "autoTweets.json",
+    "enableAutoTweets" : false,
+    "twitterKey": 0,
+    "enableFilter":true,
+    "filter":"insultes.txt",
+    "hashtags":["#roofgardenBBDO"],
+    "users" : ["@Doctor", "@condensed", "@BonjourLab"],
+    "userImage":false,
+}
